@@ -8217,6 +8217,29 @@
         "blob/0722f0a0e958a50a7033fa43f9ff55a23980de93.nq.gz",
         "blob/bda8daf6dcf0910d0070dc78d958d366e202e307.nq.gz",
         "blob/a8aa3bf996bcdadc0c9e89d86f0a28d383dfac36.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e7e064611e1004ec62b593ec993a06d967d6c72e.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e7e064611e1004ec62b593ec993a06d967d6c72e.nq.gz",
+      "repolex": "aggregate/repolex/e7e064611e1004ec62b593ec993a06d967d6c72e.nq.gz",
+      "dep": "dep/e7e064611e1004ec62b593ec993a06d967d6c72e.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "ruby-fcgi",
+          "githubOrg": "saks",
+          "githubRepo": "ruby-fcgi"
+        },
+        {
+          "packageName": "mongrel",
+          "githubOrg": "fauna",
+          "githubRepo": "mongrel"
+        },
+        {
+          "packageName": "thin",
+          "githubOrg": "macournoyer",
+          "githubRepo": "thin"
+        }
       ]
     }
   ],
