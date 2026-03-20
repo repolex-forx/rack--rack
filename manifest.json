@@ -13768,6 +13768,44 @@
         "blob/0722f0a0e958a50a7033fa43f9ff55a23980de93.nq.gz",
         "blob/bda8daf6dcf0910d0070dc78d958d366e202e307.nq.gz",
         "blob/a8aa3bf996bcdadc0c9e89d86f0a28d383dfac36.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/e95f187b11c5f342d2de00a38ce10bc7ad435409.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/e95f187b11c5f342d2de00a38ce10bc7ad435409.nq.gz",
+      "repolex": "aggregate/repolex/e95f187b11c5f342d2de00a38ce10bc7ad435409.nq.gz",
+      "dep": "dep/e95f187b11c5f342d2de00a38ce10bc7ad435409.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rubocop",
+          "githubOrg": "rubocop-hq",
+          "githubRepo": "rubocop"
+        },
+        {
+          "packageName": "rubocop-packaging",
+          "githubOrg": "utkarsh2102",
+          "githubRepo": "rubocop-packaging"
+        },
+        {
+          "packageName": "rdoc",
+          "githubOrg": "ruby",
+          "githubRepo": "rdoc"
+        },
+        {
+          "packageName": "minitest",
+          "githubOrg": "minitest",
+          "githubRepo": "minitest"
+        },
+        {
+          "packageName": "bake-test-external",
+          "githubOrg": "ioquatix",
+          "githubRepo": "bake-test-external"
+        },
+        {
+          "packageName": "base64",
+          "githubOrg": "ruby",
+          "githubRepo": "base64"
+        }
       ]
     },
     {
