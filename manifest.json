@@ -12379,6 +12379,29 @@
         "blob/0722f0a0e958a50a7033fa43f9ff55a23980de93.nq.gz",
         "blob/bda8daf6dcf0910d0070dc78d958d366e202e307.nq.gz",
         "blob/a8aa3bf996bcdadc0c9e89d86f0a28d383dfac36.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/52808700e0ade4225625c6729529e13a6b31cc2f.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/52808700e0ade4225625c6729529e13a6b31cc2f.nq.gz",
+      "repolex": "aggregate/repolex/52808700e0ade4225625c6729529e13a6b31cc2f.nq.gz",
+      "dep": "dep/52808700e0ade4225625c6729529e13a6b31cc2f.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rubocop",
+          "githubOrg": "rubocop-hq",
+          "githubRepo": "rubocop"
+        },
+        {
+          "packageName": "thin",
+          "githubOrg": "macournoyer",
+          "githubRepo": "thin"
+        },
+        {
+          "packageName": "rdoc",
+          "githubOrg": "ruby",
+          "githubRepo": "rdoc"
+        }
       ]
     }
   ],
