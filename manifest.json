@@ -11022,13 +11022,17 @@
       "dependencies": [
         {
           "packageName": "thin",
+          "packageVersion": "2.0.1",
           "githubOrg": "macournoyer",
-          "githubRepo": "thin"
+          "githubRepo": "thin",
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
         },
         {
           "packageName": "rdoc",
+          "packageVersion": "7.2.0",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc"
+          "githubRepo": "rdoc",
+          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
         }
       ]
     },
