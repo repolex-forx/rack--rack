@@ -8232,18 +8232,24 @@
       "dependencies": [
         {
           "packageName": "ruby-fcgi",
+          "packageVersion": "0.8.9",
           "githubOrg": "saks",
-          "githubRepo": "ruby-fcgi"
+          "githubRepo": "ruby-fcgi",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "mongrel",
+          "packageVersion": "1.2.0.pre2",
           "githubOrg": "fauna",
-          "githubRepo": "mongrel"
+          "githubRepo": "mongrel",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "thin",
+          "packageVersion": "2.0.1",
           "githubOrg": "macournoyer",
-          "githubRepo": "thin"
+          "githubRepo": "thin",
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
         }
       ]
     },
