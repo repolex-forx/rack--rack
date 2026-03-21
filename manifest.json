@@ -12410,18 +12410,24 @@
       "dependencies": [
         {
           "packageName": "rubocop",
+          "packageVersion": "1.9.1",
           "githubOrg": "rubocop-hq",
-          "githubRepo": "rubocop"
+          "githubRepo": "rubocop",
+          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259"
         },
         {
           "packageName": "thin",
+          "packageVersion": "2.0.1",
           "githubOrg": "macournoyer",
-          "githubRepo": "thin"
+          "githubRepo": "thin",
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
         },
         {
           "packageName": "rdoc",
+          "packageVersion": "7.2.0",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc"
+          "githubRepo": "rdoc",
+          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
         }
       ]
     },
