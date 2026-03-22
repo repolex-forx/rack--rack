@@ -17972,6 +17972,35 @@
         "blob/0722f0a0e958a50a7033fa43f9ff55a23980de93.nq.gz",
         "blob/bda8daf6dcf0910d0070dc78d958d366e202e307.nq.gz",
         "blob/a8aa3bf996bcdadc0c9e89d86f0a28d383dfac36.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/0cc2e00b22dffc33955ef912569f01e515a406e1.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/0cc2e00b22dffc33955ef912569f01e515a406e1.nq.gz",
+      "repolex": "aggregate/repolex/0cc2e00b22dffc33955ef912569f01e515a406e1.nq.gz",
+      "dep": "dep/0cc2e00b22dffc33955ef912569f01e515a406e1.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rubocop",
+          "packageVersion": "1.9.1",
+          "githubOrg": "rubocop-hq",
+          "githubRepo": "rubocop",
+          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259"
+        },
+        {
+          "packageName": "thin",
+          "packageVersion": "2.0.1",
+          "githubOrg": "macournoyer",
+          "githubRepo": "thin",
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
+        },
+        {
+          "packageName": "rdoc",
+          "packageVersion": "7.2.0",
+          "githubOrg": "ruby",
+          "githubRepo": "rdoc",
+          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
+        }
       ]
     }
   ],
