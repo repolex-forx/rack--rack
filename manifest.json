@@ -15209,23 +15209,31 @@
       "dependencies": [
         {
           "packageName": "rubocop",
+          "packageVersion": "1.9.1",
           "githubOrg": "rubocop-hq",
-          "githubRepo": "rubocop"
+          "githubRepo": "rubocop",
+          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259"
         },
         {
           "packageName": "rubocop-packaging",
+          "packageVersion": "0.6.0",
           "githubOrg": "utkarsh2102",
-          "githubRepo": "rubocop-packaging"
+          "githubRepo": "rubocop-packaging",
+          "githubCommit": "277bcfead602e59c3a89dca346c7ab58eeeb18ad"
         },
         {
           "packageName": "rdoc",
+          "packageVersion": "7.2.0",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc"
+          "githubRepo": "rdoc",
+          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
         },
         {
           "packageName": "bake-test-external",
+          "packageVersion": "0.6.1",
           "githubOrg": "ioquatix",
-          "githubRepo": "bake-test-external"
+          "githubRepo": "bake-test-external",
+          "githubCommit": "4595958d08030c88da8c48aed6fc9c3713efa045"
         }
       ]
     }
