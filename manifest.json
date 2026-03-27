@@ -19379,6 +19379,46 @@
         "blob/94f0fae392a8e9cd7be358ab5b490ce8665ffc82.nq.gz",
         "blob/1dfafcdb5ff68e01f47569a5eedbc23137a43b33.nq.gz",
         "blob/a3747288003ce53264f6fc88bf3dc2173ee0f6b0.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/bb5f3555bd12b9065112353e829298b3b5623ceb.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/bb5f3555bd12b9065112353e829298b3b5623ceb.nq.gz",
+      "repolex": "aggregate/repolex/bb5f3555bd12b9065112353e829298b3b5623ceb.nq.gz",
+      "dep": "dep/bb5f3555bd12b9065112353e829298b3b5623ceb.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "rubocop",
+          "packageVersion": "1.9.1",
+          "githubOrg": "rubocop-hq",
+          "githubRepo": "rubocop",
+          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259",
+          "githubTag": "v1.9.1"
+        },
+        {
+          "packageName": "rubocop-packaging",
+          "packageVersion": "0.6.0",
+          "githubOrg": "utkarsh2102",
+          "githubRepo": "rubocop-packaging",
+          "githubCommit": "277bcfead602e59c3a89dca346c7ab58eeeb18ad",
+          "githubTag": "v0.6.0"
+        },
+        {
+          "packageName": "rdoc",
+          "packageVersion": "7.2.0",
+          "githubOrg": "ruby",
+          "githubRepo": "rdoc",
+          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67",
+          "githubTag": "v7.2.0"
+        },
+        {
+          "packageName": "bake-test-external",
+          "packageVersion": "0.6.1",
+          "githubOrg": "ioquatix",
+          "githubRepo": "bake-test-external",
+          "githubCommit": "4595958d08030c88da8c48aed6fc9c3713efa045",
+          "githubTag": "v0.6.1"
+        }
       ]
     }
   ],
