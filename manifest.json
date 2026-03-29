@@ -12430,24 +12430,32 @@
       "dependencies": [
         {
           "packageName": "rubocop",
-          "packageVersion": "1.9.1",
-          "githubOrg": "rubocop-hq",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.68.1",
+          "githubOrg": "rubocop",
           "githubRepo": "rubocop",
-          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259"
+          "githubCommit": "98b03406bcfa091e26a6bd936f3107ce9d9e372d",
+          "githubTag": "v0.68.1",
+          "githubUrl": "https://github.com/rubocop/rubocop/",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "thin",
-          "packageVersion": "2.0.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.0.1",
           "githubOrg": "macournoyer",
           "githubRepo": "thin",
-          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c",
+          "githubTag": "v2.0.1",
+          "githubUrl": "https://github.com/macournoyer/thin",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "rdoc",
-          "packageVersion": "7.2.0",
+          "ecosystem": "RUBYGEMS",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc",
-          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
         }
       ]
     },
