@@ -19460,35 +19460,50 @@
       "dependencies": [
         {
           "packageName": "rubocop",
-          "packageVersion": "1.9.1",
-          "githubOrg": "rubocop-hq",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.86.0",
+          "githubOrg": "rubocop",
           "githubRepo": "rubocop",
-          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259",
-          "githubTag": "v1.9.1"
+          "githubCommit": "2c1b30a47d357599f36ae69c41a63966e68d7592",
+          "githubTag": "v1.86.0",
+          "githubUrl": "https://github.com/rubocop/rubocop/",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "rubocop-packaging",
-          "packageVersion": "0.6.0",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.6.0",
           "githubOrg": "utkarsh2102",
           "githubRepo": "rubocop-packaging",
           "githubCommit": "277bcfead602e59c3a89dca346c7ab58eeeb18ad",
-          "githubTag": "v0.6.0"
+          "githubTag": "v0.6.0",
+          "githubUrl": "https://github.com/utkarsh2102/rubocop-packaging",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "rdoc",
-          "packageVersion": "7.2.0",
+          "ecosystem": "RUBYGEMS",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc",
-          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67",
-          "githubTag": "v7.2.0"
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
+        },
+        {
+          "packageName": "logger",
+          "ecosystem": "RUBYGEMS",
+          "githubOrg": "ruby",
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
         },
         {
           "packageName": "bake-test-external",
-          "packageVersion": "0.6.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.6.1",
           "githubOrg": "ioquatix",
           "githubRepo": "bake-test-external",
           "githubCommit": "4595958d08030c88da8c48aed6fc9c3713efa045",
-          "githubTag": "v0.6.1"
+          "githubTag": "v0.6.1",
+          "githubUrl": "https://github.com/ioquatix/bake-test-external.git",
+          "source": "build_file:Gemfile"
         }
       ]
     }
