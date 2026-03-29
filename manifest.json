@@ -11038,17 +11038,21 @@
       "dependencies": [
         {
           "packageName": "thin",
-          "packageVersion": "2.0.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.0.1",
           "githubOrg": "macournoyer",
           "githubRepo": "thin",
-          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c",
+          "githubTag": "v2.0.1",
+          "githubUrl": "https://github.com/macournoyer/thin",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "rdoc",
-          "packageVersion": "7.2.0",
+          "ecosystem": "RUBYGEMS",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc",
-          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
         }
       ]
     },
