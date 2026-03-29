@@ -9635,24 +9635,32 @@
       "dependencies": [
         {
           "packageName": "rake",
-          "packageVersion": "13.3.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "11.0",
           "githubOrg": "ruby",
           "githubRepo": "rake",
-          "githubCommit": "f0001c3eeada8220f2976170876c75d21ed0626f"
+          "githubUrl": "https://github.com/ruby/rake",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "mongrel",
-          "packageVersion": "1.2.0.pre2",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.2.0.pre2",
           "githubOrg": "fauna",
           "githubRepo": "mongrel",
-          "githubCommit": "HEAD"
+          "githubUrl": "http://github.com/fauna/mongrel/",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "thin",
-          "packageVersion": "2.0.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.0.1",
           "githubOrg": "macournoyer",
           "githubRepo": "thin",
-          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c",
+          "githubTag": "v2.0.1",
+          "githubUrl": "https://github.com/macournoyer/thin",
+          "source": "build_file:Gemfile"
         }
       ]
     },
