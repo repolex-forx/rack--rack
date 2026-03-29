@@ -8232,24 +8232,32 @@
       "dependencies": [
         {
           "packageName": "ruby-fcgi",
-          "packageVersion": "0.8.9",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.8.9",
           "githubOrg": "saks",
           "githubRepo": "ruby-fcgi",
-          "githubCommit": "HEAD"
+          "githubUrl": "http://github.com/saks/ruby-fcgi",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "mongrel",
-          "packageVersion": "1.2.0.pre2",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.2.0.pre2",
           "githubOrg": "fauna",
           "githubRepo": "mongrel",
-          "githubCommit": "HEAD"
+          "githubUrl": "http://github.com/fauna/mongrel/",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "thin",
-          "packageVersion": "2.0.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "2.0.1",
           "githubOrg": "macournoyer",
           "githubRepo": "thin",
-          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c"
+          "githubCommit": "84a5188612d84bcf5c6ad1f1c27c750645917f5c",
+          "githubTag": "v2.0.1",
+          "githubUrl": "https://github.com/macournoyer/thin",
+          "source": "build_file:Gemfile"
         }
       ]
     },
