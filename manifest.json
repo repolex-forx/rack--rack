@@ -13833,45 +13833,61 @@
       "dependencies": [
         {
           "packageName": "rubocop",
-          "packageVersion": "1.9.1",
-          "githubOrg": "rubocop-hq",
+          "ecosystem": "RUBYGEMS",
+          "version": "1.86.0",
+          "githubOrg": "rubocop",
           "githubRepo": "rubocop",
-          "githubCommit": "96248184970e375b3cd78b5fbef10555cd422259"
+          "githubCommit": "2c1b30a47d357599f36ae69c41a63966e68d7592",
+          "githubTag": "v1.86.0",
+          "githubUrl": "https://github.com/rubocop/rubocop/",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "rubocop-packaging",
-          "packageVersion": "0.6.0",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.6.0",
           "githubOrg": "utkarsh2102",
           "githubRepo": "rubocop-packaging",
-          "githubCommit": "277bcfead602e59c3a89dca346c7ab58eeeb18ad"
+          "githubCommit": "277bcfead602e59c3a89dca346c7ab58eeeb18ad",
+          "githubTag": "v0.6.0",
+          "githubUrl": "https://github.com/utkarsh2102/rubocop-packaging",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "rdoc",
-          "packageVersion": "7.2.0",
+          "ecosystem": "RUBYGEMS",
           "githubOrg": "ruby",
-          "githubRepo": "rdoc",
-          "githubCommit": "d6422f499fb2961b91de400f48426fc6d3fa5b67"
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
         },
         {
           "packageName": "minitest",
-          "packageVersion": "6.0.2",
+          "ecosystem": "RUBYGEMS",
+          "version": "6.0.2",
           "githubOrg": "minitest",
           "githubRepo": "minitest",
-          "githubCommit": "339492cbaec5c460ec278e754199619d6431af35"
+          "githubCommit": "339492cbaec5c460ec278e754199619d6431af35",
+          "githubTag": "v6.0.2",
+          "githubUrl": "https://github.com/minitest/minitest",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "bake-test-external",
-          "packageVersion": "0.6.1",
+          "ecosystem": "RUBYGEMS",
+          "version": "0.1.3",
           "githubOrg": "ioquatix",
           "githubRepo": "bake-test-external",
-          "githubCommit": "4595958d08030c88da8c48aed6fc9c3713efa045"
+          "githubCommit": "4ca07cbba100bfa91142ef27d87a2a010faaf9f8",
+          "githubTag": "v0.1.3",
+          "githubUrl": "https://github.com/ioquatix/bake-test-external.git",
+          "source": "build_file:Gemfile"
         },
         {
           "packageName": "base64",
-          "packageVersion": "0.3.0",
+          "ecosystem": "RUBYGEMS",
           "githubOrg": "ruby",
-          "githubRepo": "base64",
-          "githubCommit": "c5d3c7f3c06b40e956a04b4df57a60c0f5daea39"
+          "githubRepo": "ruby",
+          "source": "stdlib:ruby"
         }
       ]
     },
